@@ -13,4 +13,4 @@ Visualization: [Google Slides](https://docs.google.com/presentation/d/1YCw3hoYsn
 ### Big Data Analytics - [Kimia Farma](https://github.com/sergiolhx/kimia-farma-sales-dashboard)
 Description: Big Data Analytics Kimia Farma is a virtual internship experience facilitated by Rakamin Academy. In this project, I served as a Data Analyst Intern tasked with analyzing and generating reports on the company's sales using provided datasets. Throughout this project, I gained valuable insights into data warehouse, data lake, and datamart.
 
-Visualization: [Looker Data Studio](https://lookerstudio.google.com/reporting/5fd77f0b-6fe6-4344-ad6d-8e54f86fd09f)
+Visualization: [Looker Data Studio](https://lookerstudio.google.com/s/lxpnPWJOflE)
