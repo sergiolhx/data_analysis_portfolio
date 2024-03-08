@@ -3,11 +3,19 @@
 I'm a recent computer science graduate from Binus University, and I'm enchanted by data analytics that is all about using data to make smart decisions and drive innovation. Currently, I am actively honing my skills in data analytics, with a particular focus on SQL, Excel, Python, and proficiently using visualization tools such as Tableau and Looker Data Studio. My fascination lies in working with numbers, transforming raw data into actionable insights, and crafting compelling narratives through data. I firmly believe that data is essential for enhancing business strategies, optimizing operational efficiency, and enabling data-driven, evidence-based decision-making.
 <br>
 <br>
+## 📌 Table of contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+	+ [Credit Card Customer Churn Analysis BTPN Syariah](#credit-card-customer-churn-analysis-btpn-syariah)
+	+ [Kimia Farma Sales Dashboard](#kimia-farma-sales-dashboard)
+- [Contacts](#contacts)
+<br>
+
 ## 📂 Portofolio Projects
 Within this section, I'll outline data analytics projects and describing the technology stack used to solve cases.
 <br>
 <br>
-### 🏦 BTPN Syariah
+### 🏦 Credit Card Customer Churn Analysis BTPN Syariah
 Description: Providing a comprehensive understanding of the elements that lead to the regular attrition of credit card customers from credit card services. The main objective is to establish the foundation for creating business strategies focused on retaining customers and cultivating their ongoing loyalty to credit card services.<br>
 
 Tools:<br>
