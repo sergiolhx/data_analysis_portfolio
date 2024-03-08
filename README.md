@@ -4,7 +4,7 @@ I'm a recent computer science graduate from Binus University, and I'm enchanted 
 <br>
 <br>
 ## 📌 Table of contents
-- [About](#about)
+- [About](https://github.com/sergiolhx/data_analysis_portfolio?tab=readme-ov-file#-about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Credit Card Customer Churn Analysis BTPN Syariah](#🏦-credit-card-customer-churn-analysis-btpn-syariah)
 	+ [Kimia Farma Sales Dashboard](#💊-kimia-farma-sales-dashboard)
