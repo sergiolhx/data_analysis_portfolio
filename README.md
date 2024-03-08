@@ -5,10 +5,10 @@ I'm a recent computer science graduate from Binus University, and I'm enchanted 
 <br>
 ## 📌 Table of contents
 - [About](https://github.com/sergiolhx/data_analysis_portfolio?tab=readme-ov-file#-about)
-- [Portfolio Projects](#portfolio-projects)
-	+ [Credit Card Customer Churn Analysis BTPN Syariah](#🏦-credit-card-customer-churn-analysis-btpn-syariah)
-	+ [Kimia Farma Sales Dashboard](#💊-kimia-farma-sales-dashboard)
-- [Contacts](#contacts)
+- [Portfolio Projects](https://github.com/sergiolhx/data_analysis_portfolio?tab=readme-ov-file#-portofolio-projects)
+	+ [Credit Card Customer Churn Analysis BTPN Syariah](https://github.com/sergiolhx/data_analysis_portfolio?tab=readme-ov-file#-credit-card-customer-churn-analysis-btpn-syariah)
+	+ [Kimia Farma Sales Dashboard](https://github.com/sergiolhx/data_analysis_portfolio?tab=readme-ov-file#-kimia-farma-sales-dashboard)
+- [Contacts](https://github.com/sergiolhx/data_analysis_portfolio?tab=readme-ov-file#%EF%B8%8F-contacts)
 <br>
 
 ## 📂 Portofolio Projects
