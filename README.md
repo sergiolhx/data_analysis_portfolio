@@ -6,8 +6,8 @@ I'm a recent computer science graduate from Binus University, and I'm enchanted 
 ## 📌 Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Credit Card Customer Churn Analysis BTPN Syariah](#credit-card-customer-churn-analysis-btpn-syariah)
-	+ [Kimia Farma Sales Dashboard](#kimia-farma-sales-dashboard)
+	+ [Credit Card Customer Churn Analysis BTPN Syariah](#🏦-credit-card-customer-churn-analysis-btpn-syariah)
+	+ [Kimia Farma Sales Dashboard](#💊-kimia-farma-sales-dashboard)
 - [Contacts](#contacts)
 <br>
 
