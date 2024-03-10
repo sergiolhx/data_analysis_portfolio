@@ -21,7 +21,7 @@ Description: Providing a comprehensive understanding of the elements that lead t
 Tools:<br>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)
 
-Details: [Google Slides](https://docs.google.com/presentation/d/1YCw3hoYsnySL7Tm59vRzfMVKu7C7_AsDB7WGpSSV7dI/edit?usp=drive_link)
+Details: [Click Here](https://github.com/sergiolhx/credit-card-customer-churn-analysis)
 <br>
 <br>
 ### 💊 Kimia Farma Sales Dashboard
